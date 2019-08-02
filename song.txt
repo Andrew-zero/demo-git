@@ -1,4 +1,4 @@
-Задача 1
+Solution 1
  BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
         int a = Integer.parseInt(reader.readLine());
@@ -9,4 +9,4 @@
 
         System.out.println(z);
 
-Задача 2
+Solution 2
