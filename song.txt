@@ -1,5 +1,12 @@
-sword and spear
-wall of shields
-standing strong
-on this their chosen battle field
-and there are win
+Задача 1
+ BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+
+        int a = Integer.parseInt(reader.readLine());
+        int b = Integer.parseInt(reader.readLine());
+        int c = Integer.parseInt(reader.readLine());
+
+        double z = ((a-3)*(float)b/2)+c;
+
+        System.out.println(z);
+
+Задача 2
