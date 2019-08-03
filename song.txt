@@ -10,3 +10,6 @@ Solution 1
         System.out.println(z);
 
 Solution 2
+
+
+-------------
